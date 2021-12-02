@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AddOne",
+            "request": "launch",
+            "mainClass": "addOne.AddOne",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreeSum",
+            "request": "launch",
+            "mainClass": "threeSum.ThreeSum",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxSubListSum",
+            "request": "launch",
+            "mainClass": "maxSubList.MaxSubListSum",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "originalDigits.OriginalDigits"
