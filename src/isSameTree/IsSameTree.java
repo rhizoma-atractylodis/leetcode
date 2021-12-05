@@ -1,6 +1,5 @@
 package isSameTree;
 
-import java.rmi.server.RemoteStub;
 import java.util.ArrayList;
 import java.util.List;
 
