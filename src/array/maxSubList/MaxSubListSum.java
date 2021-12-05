@@ -1,4 +1,4 @@
-package maxSubList;
+package array.maxSubList;
 
 public class MaxSubListSum {
     public static void main(String[] args) {

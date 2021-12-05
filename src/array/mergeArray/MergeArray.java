@@ -1,4 +1,4 @@
-package mergeArray;
+package array.mergeArray;
 
 public class MergeArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sortedArrayToBST;
+package tree.sortedArrayToBST;
 
 public class SortedArrayToBST {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package inorderTraversal;
+package tree.inorderTraversal;
 
 import java.util.ArrayList;
 import java.util.List;

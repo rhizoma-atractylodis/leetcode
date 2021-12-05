@@ -1,4 +1,4 @@
-package originalDigits;
+package array.originalDigits;
 
 import java.util.HashMap;
 import java.util.Map;

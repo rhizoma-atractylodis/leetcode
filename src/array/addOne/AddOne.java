@@ -1,4 +1,4 @@
-package addOne;
+package array.addOne;
 
 import java.util.LinkedList;
 

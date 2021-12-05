@@ -1,4 +1,4 @@
-package isSameTree;
+package tree.isSameTree;
 
 import java.util.ArrayList;
 import java.util.List;

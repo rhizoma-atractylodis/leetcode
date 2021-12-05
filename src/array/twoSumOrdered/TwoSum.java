@@ -1,4 +1,4 @@
-package twoSumOrdered;
+package array.twoSumOrdered;
 
 public class TwoSum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package inorderTraversal;
+package tree.sortedArrayToBST;
 
 public class TreeNode {
     int val;

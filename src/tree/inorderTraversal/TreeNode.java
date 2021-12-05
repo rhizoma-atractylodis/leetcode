@@ -1,4 +1,4 @@
-package isSameTree;
+package tree.inorderTraversal;
 
 public class TreeNode {
     int val;

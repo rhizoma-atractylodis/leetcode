@@ -1,4 +1,4 @@
-package sortedArrayToBST;
+package tree.isSameTree;
 
 public class TreeNode {
     int val;
