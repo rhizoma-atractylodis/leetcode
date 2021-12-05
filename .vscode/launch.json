@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IsSameTree",
+            "request": "launch",
+            "mainClass": "isSameTree.IsSameTree",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch InorderTraversal",
+            "request": "launch",
+            "mainClass": "inorderTraversal.InorderTraversal",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "twoSumOrdered.TwoSum",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleNumber",
+            "request": "launch",
+            "mainClass": "singleNumber.SingleNumber",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch PascalTriangle",
+            "request": "launch",
+            "mainClass": "pascalTriangle.PascalTriangle",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch PascalTriangle",
+            "request": "launch",
+            "mainClass": "generatePascalTriangle.PascalTriangle",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortedArrayToBST",
+            "request": "launch",
+            "mainClass": "sortedArrayToBST.SortedArrayToBST",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeArray",
+            "request": "launch",
+            "mainClass": "mergeArray.MergeArray",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
             "name": "Launch AddOne",
             "request": "launch",
             "mainClass": "addOne.AddOne",
