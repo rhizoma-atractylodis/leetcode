@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HasCycle",
+            "request": "launch",
+            "mainClass": "hash.hasCycle.HasCycle",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
             "name": "Launch RomanToInt",
             "request": "launch",
             "mainClass": "hash.romanToInt.RomanToInt",
