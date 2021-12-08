@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IsSymmetric",
+            "request": "launch",
+            "mainClass": "tree.isSymmetric.IsSymmetric",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
             "name": "Launch IsSameTree",
             "request": "launch",
             "mainClass": "isSameTree.IsSameTree",
