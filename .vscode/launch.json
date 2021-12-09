@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IntersectionNode",
+            "request": "launch",
+            "mainClass": "hash.intersectionNode.IntersectionNode",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
             "name": "Launch HasCycle",
             "request": "launch",
             "mainClass": "hash.hasCycle.HasCycle",
