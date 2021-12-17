@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IsBalanced",
+            "request": "launch",
+            "mainClass": "tree.isBalanced.IsBalanced",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
             "name": "Launch IntersectionNode",
             "request": "launch",
             "mainClass": "hash.intersectionNode.IntersectionNode",
