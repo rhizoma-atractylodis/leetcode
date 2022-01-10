@@ -12,13 +12,14 @@ public class IsBalanced {
     }
 
     public static int height(TreeNode root) {
-        int height=0;
-        while(root!=null) {
-            height++;
-            if(root.left!=null) root=root.left;
-            else root=root.right;
+        int leftHeight=0;
+        int rightHight=0;
+        if(root==null) {
+            return 0;
         }
-        return height;
+        leftHeight+=height(root.left)+1;
+        rightHight+=height(root.right)+1;
+        return Math.max(leftHeight, rightHight);
     }
 
     public static boolean judge(TreeNode node) {

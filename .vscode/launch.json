@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HasPathSum",
+            "request": "launch",
+            "mainClass": "tree.hasPathSum.HasPathSum",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinDepth",
+            "request": "launch",
+            "mainClass": "tree.minDepth.MinDepth",
+            "projectName": "leetcode_32333820"
+        },
+        {
+            "type": "java",
             "name": "Launch IsBalanced",
             "request": "launch",
             "mainClass": "tree.isBalanced.IsBalanced",
